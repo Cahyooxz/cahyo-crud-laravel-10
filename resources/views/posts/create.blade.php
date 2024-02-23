@@ -50,8 +50,8 @@
                             @enderror
                         </div>
 
-                        <button type="submit" class="btn btn-md btn-primary">SIMPAN</button>
-                        <button type="reset" class="btn btn-md btn-danger text-light">RESET</button>
+                        <button type="submit" class="btn btn-md btn-primary mt-3">SIMPAN</button>
+                        <button type="reset" class="btn btn-md btn-danger mt-3 text-light">RESET</button>
 
                     </form> 
                 </div>

@@ -5,10 +5,10 @@
         <div class="col-md-12">
             <div class="card border-0 shadow-sm rounded">
                 <div class="card-body">
-                    <div class="ms-auto">
+                    <div class="d-flex justify-content-end">
                         <a href="{{ route('posts.create') }}" class="btn btn-md btn-success mb-3">
                             <i class="bi bi-plus-circle"></i>
-                            <span class="visually-hidden"> </span>
+                            <span class="visually-hidden"></span>
                             TAMBAH POST
                         </a>
                     </div>
