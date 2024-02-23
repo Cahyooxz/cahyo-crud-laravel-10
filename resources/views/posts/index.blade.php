@@ -41,7 +41,7 @@
                                         </div>
                                         @csrf
                                         @method('DELETE')
-                                            <button type="submit" class="btn btn-sm btn-danger"><i class="bi bi-trash3"></i>HAPUS</button>
+                                            <button type="submit" class="btn btn-sm btn-danger"><i class="bi bi-trash3 me-2"></i>HAPUS</button>
                                         </div>
                                     </form>
                                 </td>
